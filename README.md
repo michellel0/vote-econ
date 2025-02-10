@@ -4,6 +4,8 @@
 
 This project analyzes the relationship between economic performance (measured by Real Disposable Income (RDI)) and state-level incumbent presidential vote share in the U.S. from 1976 to 2020. Inspired by James Carville's "It's the economy, stupid!" mantra, the project investigates whether changes in Real Disposable Income (RDI) influence voter behavior.
 
+The RMarkdown code is attached to the main branch. The PDF results are attached as well.
+
 **Data**
 
 - MIT Election Lab: State-level presidential vote shares (1972-2020)
