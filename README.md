@@ -6,6 +6,8 @@ This project analyzes the relationship between economic performance (measured by
 
 The RMarkdown code is attached to the main branch. The PDF results are attached as well.
 
+This code was submitted as a part of a final project for POLI 381 at UNC-Chapel Hill, taught by Dr. Alexander Sahn in the Political Science Department.
+
 **Data**
 
 - MIT Election Lab: State-level presidential vote shares (1972-2020)
